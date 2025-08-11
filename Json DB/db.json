@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "b10d",
+      "name": "Hamza",
+      "email": "Has@123",
+      "password": "123"
+    },
+    {
+      "id": "cd1b",
+      "name": "Zain",
+      "email": "Zain@123",
+      "password": "123"
+    }
+  ],
+  "Restaurants": [
+    {
+      "id": "63d0",
+      "name": "KFC",
+      "location": "Lahore",
+      "cuisine": "ad"
+    },
+    {
+      "id": "f755",
+      "name": "sdf",
+      "location": "sdf",
+      "cuisine": "sdsd"
+    }
+  ]
+}
